@@ -1,0 +1,5 @@
+E:\Labs\JCUtility\JCUtility.Common\obj\Debug\JCUtility.Common.csprojResolveAssemblyReference.cache
+E:\Labs\JCUtility\JCUtility.Common\bin\Debug\JCUtility.Common.dll
+E:\Labs\JCUtility\JCUtility.Common\bin\Debug\JCUtility.Common.pdb
+E:\Labs\JCUtility\JCUtility.Common\obj\Debug\JCUtility.Common.dll
+E:\Labs\JCUtility\JCUtility.Common\obj\Debug\JCUtility.Common.pdb

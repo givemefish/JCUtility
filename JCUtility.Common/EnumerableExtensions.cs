@@ -38,7 +38,7 @@
         /// <param name="pageIndex">The index of the page to get</param>
         /// <param name="pageSize">The size of te pages</param>
         /// <returns>Specific page of items within a collection</returns>
-        public static IEnumerable<T> Getpage<T>(this IEnumerable<T> source, int pageIndex, int pageSize)
+        public static IEnumerable<T> GetPage<T>(this IEnumerable<T> source, int pageIndex, int pageSize)
         {
             Ensure.Argument.NotNull(source, "source");
             Ensure.Argument.Is(pageIndex >= 0, "The page index cannot be negative.");
